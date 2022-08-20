@@ -1,0 +1,21 @@
+{
+  "name": "large-data-to-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasSilvaSouzaD/large-data-to-file.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasSilvaSouzaD/large-data-to-file/issues"
+  },
+  "homepage": "https://github.com/LucasSilvaSouzaD/large-data-to-file#readme"
+}
