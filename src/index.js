@@ -1,7 +1,7 @@
 import { writeFileFS, readFileLocale } from './utils/fs.js'
 
 
-const data = async () => Array.from({ length: 20}, (value, index) => `${index}-Testando`)
+const data = async () => Array.from({ length: 400}, (value, index) => `${index}-Testando`)
 
 async function *processData() {
     const database = await data()
